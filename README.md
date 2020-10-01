@@ -45,13 +45,24 @@ The analysis of the election show that:
   - Candidate(1,2,3), who recieved "x%" of the vote and "y" number of votes.
   
 ## Summary: Election-Audit
-The script for this local election can easily be used for other county elections as well as any other local election or state wide election with just a few minor changes to the script.  Please note, for all the examples below as well as for any other elections this script may be used for, it is important that the proper data, as in this case, election_results.csv is provided.  To do this simply replace the "election_results.csv" file with another "csv" file with the appropriate data.  See below.  
+The script for this local election can easily be used for other county elections as well as any other local election or state wide election with just a few minor changes to the script.  Please note, for all the examples below as well as for any other elections this script may be used for, it is important that the proper data, as in this case, election_results.csv is provided.  To do this simply replace the "election_results.csv" file with another "election_results.csv" file with the appropriate data.  See below.  
 
 VSC_election_analysis_screen_shot pic here.
 
+### Example of changes to make to script for a city wide election
+Changes to code should be made in the following areas.
+
+pics 1 and 2 here.
+
+### Example of a Statewide election
+If you wanted to know the results of a statewide election while also knowing where the largest voter turn out for the county was.  No need to change the code at all.  Simply replace the original "election_results.csv" file with an updated "election_results.csv" file.  The data should be housed exactly how it is currently housed, just with the additions of new candidates and counties.  Example of how the current "election_results.csv" file looks.
+
+pic of current cvs file
+
+
+
+
 
   
-## Challenge Overview
 
-## Challenge Summary
   
