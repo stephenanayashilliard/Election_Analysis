@@ -14,6 +14,7 @@ A Colorado Board of Elections gave me the following tasks to complete the electi
 9. Determine the winner of the election based on popular vote.
 
 Here is an example of the output requested.
+
 ![Election_analysis_output](https://github.com/stephenanayashilliard/Election_Analysis/blob/master/election_analysis_output.png)
 
 ## Resources
